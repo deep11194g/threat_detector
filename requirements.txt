@@ -4,7 +4,6 @@ decorator==4.0.11
 Django==1.10.6
 django-filter==1.0.1
 djangorestframework==3.6.2
-libxml2-python==2.8.0
 Markdown==2.6.8
 mod-python==3.5.0
 mysql-connector-python==2.0.4
