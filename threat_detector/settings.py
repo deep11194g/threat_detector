@@ -25,7 +25,7 @@ SECRET_KEY = 'd6u*b^^8cp%q_02%g)&$yi&*g))dxq=(hr55&8co1e_9r-=w)m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [enigmatic-hollows-73756.herokuapp.com]
+ALLOWED_HOSTS = ['enigmatic-hollows-73756.herokuapp.com']
 
 
 # Application definition
